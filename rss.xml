@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WHO IS THE REAL HARVEY KEITEL?]]></title>
         <description><![CDATA[WHO IS THE REAL HARVEY KEITEL?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/therealharveykeitel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 12:00:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 04:53:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/therealharveykeitel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Check out this story by Rhett Burch on @stellerstories]]></title>
+            <description><![CDATA[<article><h1>Check out this story by Rhett Burch on @stellerstories</h1><p>Son Just Another Fool What I want, above all, is to make other people happy. In this lies my happiness. If I could have gotten away being anybody else I would have done so. But what I want is only what I want, not what I actually desire in the end.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58017294df7ef53b76b1aa4c8029d255bcbffc77.jpg"></article>]]></description>
+            <link>https://steller.co/s/5XHYLqneepZ</link>
+            <guid isPermaLink="false">048bc6cf-45c5-43d9-b603-9004e52419b4</guid>
+            <pubDate>Fri, 25 Mar 2016 04:53:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee0d77b8-add4-4ced-8163-88159e776ecb.jpg">]]></description>
-            <link>undefined1720ae38-548b-43e6-9bda-2f1171c1cb99/index.html</link>
+            <link>https://thegrid.ai/therealharveykeitel/1720ae38-548b-43e6-9bda-2f1171c1cb99/index.html</link>
             <guid isPermaLink="false">1720ae38-548b-43e6-9bda-2f1171c1cb99</guid>
             <pubDate>Fri, 18 Mar 2016 12:00:27 GMT</pubDate>
         </item>
